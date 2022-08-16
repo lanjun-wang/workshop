@@ -2,6 +2,6 @@ package workshop
 
 import "fmt"
 
-func do() {
+func Do() {
 	fmt.Println("test...1")
 }
